@@ -1,0 +1,16 @@
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\bin\Debug\net8.0-windows\Antonio_Order Management System.exe
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\bin\Debug\net8.0-windows\Antonio_Order Management System.deps.json
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\bin\Debug\net8.0-windows\Antonio_Order Management System.runtimeconfig.json
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\bin\Debug\net8.0-windows\Antonio_Order Management System.dll
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\bin\Debug\net8.0-windows\Antonio_Order Management System.pdb
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order_Management_System.Form1.resources
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order Management System.vbproj.GenerateResource.cache
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order Management System.AssemblyInfoInputs.cache
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order Management System.AssemblyInfo.vb
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order Management System.vbproj.CoreCompileInputs.cache
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order Management System.dll
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\refint\Antonio_Order Management System.dll
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order Management System.pdb
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\Antonio_Order Management System.genruntimeconfig.cache
+C:\Users\ReyAllenAntonio\source\repos\Antonio_Order Management System\Antonio_Order Management System\obj\Debug\net8.0-windows\ref\Antonio_Order Management System.dll
